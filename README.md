@@ -15,3 +15,8 @@ game file backup
 
 * Win: `%APPDATA%\StardewValley\Saves`
 * Linux/OS X: `~/. config/StardewValley/Saves`
+
+### Salt and Sanctuary
+* Win: `<path-to-game> \savedata\`
+* OS X: `~/Library/Application Support/SaltAndSanctuary/`
+* Linux: `$XDG_DATA_HOME /SaltAndSanctuary/`
