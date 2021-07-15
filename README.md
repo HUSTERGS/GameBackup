@@ -22,4 +22,4 @@ game file backup
 * Linux: `$XDG_DATA_HOME /SaltAndSanctuary/`
 
 ### DarkSoulsIII
-* Win: `%APPDATA%\Roaming\DarkSoulsIII\`
+* Win: `%APPDATA%\DarkSoulsIII\`
