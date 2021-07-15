@@ -20,3 +20,6 @@ game file backup
 * Win: `<path-to-game> \savedata\`
 * OS X: `~/Library/Application Support/SaltAndSanctuary/`
 * Linux: `$XDG_DATA_HOME /SaltAndSanctuary/`
+
+### DarkSoulsIII
+* Win: `%APPDATA%\Roaming\DarkSoulsIII\`
