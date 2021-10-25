@@ -21,5 +21,8 @@ game file backup
 * OS X: `~/Library/Application Support/SaltAndSanctuary/`
 * Linux: `$XDG_DATA_HOME /SaltAndSanctuary/`
 
-### DarkSoulsIII
+### Dark Souls III
 * Win: `%APPDATA%\DarkSoulsIII\`
+
+### Dark Souls: Remastered
+* Win: C:\Users\Username\Documents\NBGI\DARK SOULS REMASTERED
