@@ -26,3 +26,10 @@ game file backup
 
 ### Dark Souls: Remastered
 * Win: C:\Users\Username\Documents\NBGI\DARK SOULS REMASTERED
+
+### F.I.S.T.: Forged In Shadow Torch
+* Win: %LOCALAPPDATA%\ZingangGame\Saved\SaveGames\
+
+
+### Sekiro: Shadows Die Twice
+* Win: %APPDATA%\Sekiro\
